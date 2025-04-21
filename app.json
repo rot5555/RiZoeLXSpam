@@ -15,7 +15,7 @@
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "",
+        "value": "25782653",
         "required": true
       },
       "ALIVE_PIC": {
@@ -25,17 +25,17 @@
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "",
+        "value": "ac9b63ba0ac9ecdbbdc1a07373a4acfe",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Fill Bot Token If You want Spam Assistant else Leave it blank",
-        "value": "",
-        "required": false
+        "value": "7899033434:AAHpIWmOSgqmhNXCVLP7kxZiOzHqK6b7YU0",
+        "required": true
       },
       "STRING": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1BJWap1wBu4dcTtr8-u1d547DJuyx_RjwytC8MXPqHTTdrNhRGzmm3z3ygTgDOC3EY0nM7JLZYRZOfIiEiCr6rmrAJ1UM_wtWmwAXA3mgT520SIpAqCFnzx6ZciwN8Cp8qZPJ60wNUspSmwWrJS4sLHZ_KdG4DHNFYk_kTa_gOsY5W0DWqYX8qiu0zgXILBpAXgPPXd7BAZtA_pBXOGgcfxV0TyqO-HBI16eC_C6M8B36rfy-Mty8sr8Z_lV8KngtczxD001b-toWyIKbBY_JUwCMAvzkn7pIoVLi4j-XArsIMPyiTjajgx5bGpVDjtOxMWV3pjR8OFUmV_1TTxzN9aEx-Fy8GMM=",
         "required": true
       },
       "STRING2": {
